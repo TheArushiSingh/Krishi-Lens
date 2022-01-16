@@ -2,11 +2,11 @@
 <p align="center">
   
 
- ![Issues](https://img.shields.io/github/issues/ayush-raj8/Krishi-Lens)
-![Pull Requests](https://img.shields.io/github/issues-pr/ayush-raj8/Krishi-Lens)
-![Forks](https://img.shields.io/github/forks/ayush-raj8/Krishi-Lens)
-![Stars](https://img.shields.io/github/stars/ayush-raj8/Krishi-Lens)
-[![License](https://img.shields.io/github/license/ayush-raj8/Krishi-Lens)](https://github.com/ayush-raj8/Krishi-Lens)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
   </a>
   
@@ -39,5 +39,29 @@ To make your local copy of the repository follow the steps:
 - Open the Command Prompt
 - Type this command:
 
+```
+
+$ git clone https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens
+
+```
+
+If you want to clone the repository into a directory named something other than Krishi-Lens, you can specify the new directory name as an additional argument:
+```
+$ git clone https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens Krishi-Lens-Repo
+```
+Start working on project and contribute.
+
 
 ## Drop an ⭐ on the Github Repository if you like it.<br><br>
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/UAceIt-Winter-of-Mentorship/Krishi-Lens.svg?style=for-the-badge
+[contributors-url]: https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/UAceIt-Winter-of-Mentorship/Krishi-Lens.svg?style=for-the-badge
+[forks-url]: https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens/network/members
+[stars-shield]: https://img.shields.io/github/stars/UAceIt-Winter-of-Mentorship/Krishi-Lens.svg?style=for-the-badge
+[stars-url]: https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens/stargazers
+[issues-shield]: https://img.shields.io/github/issues/UAceIt-Winter-of-Mentorship/Krishi-Lens.svg?style=for-the-badge
+[issues-url]: https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens/issues
+[license-shield]: https://img.shields.io/github/license/UAceIt-Winter-of-Mentorship/Krishi-Lens.svg?style=for-the-badge
+[license-url]: https://github.com/UAceIt-Winter-of-Mentorship/Krishi-Lens/blob/master/LICENSE.txt
